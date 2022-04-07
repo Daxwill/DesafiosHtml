@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Gloria+Hallelujah&display=swap');
+
+body {
+    background-image: url(images/arbolitos.png);
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+  text-align: center;
+  color: rgb(59, 16, 12);
+  font-size: auto;
+}
+
+nav a {
+    font-family: 'Gloria Hallelujah', cursive;
+    color:goldenrod;
+}
+nav {
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Gloria Hallelujah', cursive;
+    color:goldenrod;
+}
+p {
+    color: wheat;
+    font-weight: bold;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+footer  {
+    text-align: right;
+}
