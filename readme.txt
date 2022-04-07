@@ -1,1 +1,0 @@
-Imagen de <a href="https://pixabay.com/es/users/lenahelfinger-15629841/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5428296">Lena Helfinger</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5428296">Pixabay</a>
